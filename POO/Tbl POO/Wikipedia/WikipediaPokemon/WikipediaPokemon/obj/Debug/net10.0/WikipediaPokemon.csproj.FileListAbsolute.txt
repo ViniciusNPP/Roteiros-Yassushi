@@ -1,0 +1,34 @@
+C:\Users\alunolab\Documents\Wikipedia\WikipediaPokemon\WikipediaPokemon\bin\Debug\net10.0\WikipediaPokemon.exe
+C:\Users\alunolab\Documents\Wikipedia\WikipediaPokemon\WikipediaPokemon\bin\Debug\net10.0\WikipediaPokemon.deps.json
+C:\Users\alunolab\Documents\Wikipedia\WikipediaPokemon\WikipediaPokemon\bin\Debug\net10.0\WikipediaPokemon.runtimeconfig.json
+C:\Users\alunolab\Documents\Wikipedia\WikipediaPokemon\WikipediaPokemon\bin\Debug\net10.0\WikipediaPokemon.dll
+C:\Users\alunolab\Documents\Wikipedia\WikipediaPokemon\WikipediaPokemon\bin\Debug\net10.0\WikipediaPokemon.pdb
+C:\Users\alunolab\Documents\Wikipedia\WikipediaPokemon\WikipediaPokemon\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\alunolab\Documents\Wikipedia\WikipediaPokemon\WikipediaPokemon\obj\Debug\net10.0\WikipediaPokemon.csproj.AssemblyReference.cache
+C:\Users\alunolab\Documents\Wikipedia\WikipediaPokemon\WikipediaPokemon\obj\Debug\net10.0\WikipediaPokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\Documents\Wikipedia\WikipediaPokemon\WikipediaPokemon\obj\Debug\net10.0\WikipediaPokemon.AssemblyInfoInputs.cache
+C:\Users\alunolab\Documents\Wikipedia\WikipediaPokemon\WikipediaPokemon\obj\Debug\net10.0\WikipediaPokemon.AssemblyInfo.cs
+C:\Users\alunolab\Documents\Wikipedia\WikipediaPokemon\WikipediaPokemon\obj\Debug\net10.0\WikipediaPokemon.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\Documents\Wikipedia\WikipediaPokemon\WikipediaPokemon\obj\Debug\net10.0\Wikipedi.DE5F5A35.Up2Date
+C:\Users\alunolab\Documents\Wikipedia\WikipediaPokemon\WikipediaPokemon\obj\Debug\net10.0\WikipediaPokemon.dll
+C:\Users\alunolab\Documents\Wikipedia\WikipediaPokemon\WikipediaPokemon\obj\Debug\net10.0\refint\WikipediaPokemon.dll
+C:\Users\alunolab\Documents\Wikipedia\WikipediaPokemon\WikipediaPokemon\obj\Debug\net10.0\WikipediaPokemon.pdb
+C:\Users\alunolab\Documents\Wikipedia\WikipediaPokemon\WikipediaPokemon\obj\Debug\net10.0\WikipediaPokemon.genruntimeconfig.cache
+C:\Users\alunolab\Documents\Wikipedia\WikipediaPokemon\WikipediaPokemon\obj\Debug\net10.0\ref\WikipediaPokemon.dll
+C:\Users\alunolab\Desktop\Tbl POO\Wikipedia\WikipediaPokemon\WikipediaPokemon\bin\Debug\net10.0\WikipediaPokemon.exe
+C:\Users\alunolab\Desktop\Tbl POO\Wikipedia\WikipediaPokemon\WikipediaPokemon\bin\Debug\net10.0\WikipediaPokemon.deps.json
+C:\Users\alunolab\Desktop\Tbl POO\Wikipedia\WikipediaPokemon\WikipediaPokemon\bin\Debug\net10.0\WikipediaPokemon.runtimeconfig.json
+C:\Users\alunolab\Desktop\Tbl POO\Wikipedia\WikipediaPokemon\WikipediaPokemon\bin\Debug\net10.0\WikipediaPokemon.dll
+C:\Users\alunolab\Desktop\Tbl POO\Wikipedia\WikipediaPokemon\WikipediaPokemon\bin\Debug\net10.0\WikipediaPokemon.pdb
+C:\Users\alunolab\Desktop\Tbl POO\Wikipedia\WikipediaPokemon\WikipediaPokemon\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\alunolab\Desktop\Tbl POO\Wikipedia\WikipediaPokemon\WikipediaPokemon\obj\Debug\net10.0\WikipediaPokemon.csproj.AssemblyReference.cache
+C:\Users\alunolab\Desktop\Tbl POO\Wikipedia\WikipediaPokemon\WikipediaPokemon\obj\Debug\net10.0\WikipediaPokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\Desktop\Tbl POO\Wikipedia\WikipediaPokemon\WikipediaPokemon\obj\Debug\net10.0\WikipediaPokemon.AssemblyInfoInputs.cache
+C:\Users\alunolab\Desktop\Tbl POO\Wikipedia\WikipediaPokemon\WikipediaPokemon\obj\Debug\net10.0\WikipediaPokemon.AssemblyInfo.cs
+C:\Users\alunolab\Desktop\Tbl POO\Wikipedia\WikipediaPokemon\WikipediaPokemon\obj\Debug\net10.0\WikipediaPokemon.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\Desktop\Tbl POO\Wikipedia\WikipediaPokemon\WikipediaPokemon\obj\Debug\net10.0\Wikipedi.DE5F5A35.Up2Date
+C:\Users\alunolab\Desktop\Tbl POO\Wikipedia\WikipediaPokemon\WikipediaPokemon\obj\Debug\net10.0\WikipediaPokemon.dll
+C:\Users\alunolab\Desktop\Tbl POO\Wikipedia\WikipediaPokemon\WikipediaPokemon\obj\Debug\net10.0\refint\WikipediaPokemon.dll
+C:\Users\alunolab\Desktop\Tbl POO\Wikipedia\WikipediaPokemon\WikipediaPokemon\obj\Debug\net10.0\WikipediaPokemon.pdb
+C:\Users\alunolab\Desktop\Tbl POO\Wikipedia\WikipediaPokemon\WikipediaPokemon\obj\Debug\net10.0\WikipediaPokemon.genruntimeconfig.cache
+C:\Users\alunolab\Desktop\Tbl POO\Wikipedia\WikipediaPokemon\WikipediaPokemon\obj\Debug\net10.0\ref\WikipediaPokemon.dll

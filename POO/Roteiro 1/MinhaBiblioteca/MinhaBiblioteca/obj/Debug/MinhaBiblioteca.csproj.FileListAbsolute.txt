@@ -1,0 +1,6 @@
+C:\Users\alunolab\source\repos\MinhaBiblioteca\MinhaBiblioteca\bin\Debug\MinhaBiblioteca.dll
+C:\Users\alunolab\source\repos\MinhaBiblioteca\MinhaBiblioteca\bin\Debug\MinhaBiblioteca.pdb
+C:\Users\alunolab\source\repos\MinhaBiblioteca\MinhaBiblioteca\obj\Debug\MinhaBiblioteca.csproj.AssemblyReference.cache
+C:\Users\alunolab\source\repos\MinhaBiblioteca\MinhaBiblioteca\obj\Debug\MinhaBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\source\repos\MinhaBiblioteca\MinhaBiblioteca\obj\Debug\MinhaBiblioteca.dll
+C:\Users\alunolab\source\repos\MinhaBiblioteca\MinhaBiblioteca\obj\Debug\MinhaBiblioteca.pdb

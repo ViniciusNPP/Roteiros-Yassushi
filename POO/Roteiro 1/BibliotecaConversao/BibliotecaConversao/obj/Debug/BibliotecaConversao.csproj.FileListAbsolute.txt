@@ -1,0 +1,6 @@
+C:\Users\alunolab\source\repos\BibliotecaConversao\BibliotecaConversao\bin\Debug\BibliotecaConversao.dll
+C:\Users\alunolab\source\repos\BibliotecaConversao\BibliotecaConversao\bin\Debug\BibliotecaConversao.pdb
+C:\Users\alunolab\source\repos\BibliotecaConversao\BibliotecaConversao\obj\Debug\BibliotecaConversao.csproj.AssemblyReference.cache
+C:\Users\alunolab\source\repos\BibliotecaConversao\BibliotecaConversao\obj\Debug\BibliotecaConversao.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\source\repos\BibliotecaConversao\BibliotecaConversao\obj\Debug\BibliotecaConversao.dll
+C:\Users\alunolab\source\repos\BibliotecaConversao\BibliotecaConversao\obj\Debug\BibliotecaConversao.pdb

@@ -1,0 +1,6 @@
+C:\Users\alunolab\source\repos\BibliotecaAceleração\BibliotecaAceleração\obj\Debug\BibliotecaAceleração.csproj.AssemblyReference.cache
+C:\Users\alunolab\source\repos\BibliotecaAceleração\BibliotecaAceleração\obj\Debug\BibliotecaAceleração.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\source\repos\BibliotecaAceleração\BibliotecaAceleração\bin\Debug\BibliotecaAceleração.dll
+C:\Users\alunolab\source\repos\BibliotecaAceleração\BibliotecaAceleração\bin\Debug\BibliotecaAceleração.pdb
+C:\Users\alunolab\source\repos\BibliotecaAceleração\BibliotecaAceleração\obj\Debug\BibliotecaAceleração.dll
+C:\Users\alunolab\source\repos\BibliotecaAceleração\BibliotecaAceleração\obj\Debug\BibliotecaAceleração.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rapos\\Desktop\\Roteiro 1\\BibliotecaValidacoes\\BibliotecaValidacoes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0C2600-5B04-4D6B-AB6B-0346C88F8020}|BibliotecaValidacoes\\BibliotecaValidacoes.csproj|c:\\users\\rapos\\desktop\\roteiro 1\\bibliotecavalidacoes\\bibliotecavalidacoes\\bibliotecavalidacoes\\validacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0C2600-5B04-4D6B-AB6B-0346C88F8020}|BibliotecaValidacoes\\BibliotecaValidacoes.csproj|solutionrelative:bibliotecavalidacoes\\validacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Validacoes.cs",
+              "DocumentMoniker": "C:\\Users\\rapos\\Desktop\\Roteiro 1\\BibliotecaValidacoes\\BibliotecaValidacoes\\BibliotecaValidacoes\\Validacoes.cs",
+              "RelativeDocumentMoniker": "BibliotecaValidacoes\\Validacoes.cs",
+              "ToolTip": "C:\\Users\\rapos\\Desktop\\Roteiro 1\\BibliotecaValidacoes\\BibliotecaValidacoes\\BibliotecaValidacoes\\Validacoes.cs",
+              "RelativeToolTip": "BibliotecaValidacoes\\Validacoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T15:09:23.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

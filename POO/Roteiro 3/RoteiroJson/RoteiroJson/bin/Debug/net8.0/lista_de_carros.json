@@ -1,0 +1,27 @@
+[
+  {
+    "Marca": "Toyota",
+    "Modelo": "Corolla",
+    "Ano": 2024
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "Civic",
+    "Ano": 2023
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Mustang",
+    "Ano": 2022
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Golf",
+    "Ano": 2021
+  },
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Onix",
+    "Ano": 2024
+  }
+]

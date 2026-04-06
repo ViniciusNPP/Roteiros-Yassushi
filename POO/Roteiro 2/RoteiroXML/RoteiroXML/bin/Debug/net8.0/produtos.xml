@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<produtos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <produto>
+    <nome>Feijão</nome>
+    <preco>23.5</preco>
+  </produto>
+  <produto>
+    <nome>Arroz</nome>
+    <preco>12.0</preco>
+  </produto>
+</produtos>

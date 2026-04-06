@@ -1,0 +1,11 @@
+C:\Users\rapos\Desktop\Roteiro 1\BibliotecaValidacoes\BibliotecaValidacoes\BibliotecaValidacoes\bin\Debug\net8.0\BibliotecaValidacoes.deps.json
+C:\Users\rapos\Desktop\Roteiro 1\BibliotecaValidacoes\BibliotecaValidacoes\BibliotecaValidacoes\bin\Debug\net8.0\BibliotecaValidacoes.dll
+C:\Users\rapos\Desktop\Roteiro 1\BibliotecaValidacoes\BibliotecaValidacoes\BibliotecaValidacoes\bin\Debug\net8.0\BibliotecaValidacoes.pdb
+C:\Users\rapos\Desktop\Roteiro 1\BibliotecaValidacoes\BibliotecaValidacoes\BibliotecaValidacoes\obj\Debug\net8.0\BibliotecaValidacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapos\Desktop\Roteiro 1\BibliotecaValidacoes\BibliotecaValidacoes\BibliotecaValidacoes\obj\Debug\net8.0\BibliotecaValidacoes.AssemblyInfoInputs.cache
+C:\Users\rapos\Desktop\Roteiro 1\BibliotecaValidacoes\BibliotecaValidacoes\BibliotecaValidacoes\obj\Debug\net8.0\BibliotecaValidacoes.AssemblyInfo.cs
+C:\Users\rapos\Desktop\Roteiro 1\BibliotecaValidacoes\BibliotecaValidacoes\BibliotecaValidacoes\obj\Debug\net8.0\BibliotecaValidacoes.csproj.CoreCompileInputs.cache
+C:\Users\rapos\Desktop\Roteiro 1\BibliotecaValidacoes\BibliotecaValidacoes\BibliotecaValidacoes\obj\Debug\net8.0\BibliotecaValidacoes.dll
+C:\Users\rapos\Desktop\Roteiro 1\BibliotecaValidacoes\BibliotecaValidacoes\BibliotecaValidacoes\obj\Debug\net8.0\refint\BibliotecaValidacoes.dll
+C:\Users\rapos\Desktop\Roteiro 1\BibliotecaValidacoes\BibliotecaValidacoes\BibliotecaValidacoes\obj\Debug\net8.0\BibliotecaValidacoes.pdb
+C:\Users\rapos\Desktop\Roteiro 1\BibliotecaValidacoes\BibliotecaValidacoes\BibliotecaValidacoes\obj\Debug\net8.0\ref\BibliotecaValidacoes.dll

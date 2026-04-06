@@ -1,0 +1,13 @@
+1- a) Está sendo centralizado o children
+b) O texto dentro de children
+
+2- a) Significa "espaço entre", ou seja, espaço entre os elementos até chegarem na borda do navegador.
+b) Os elementos ficam mais próximos um dos outros, pois ao invés de haver um espaçamento entre os elementos até
+a borda, terá um espaçamento igual envolta de todos os elementos.
+
+3- a) All: aplica o mesmo valor de espaçamento para todos os lados do elemento; 
+Symmetric: define um espaçamento para dois diferentes eixos, podendo controlar o valor dos dois eixos;
+Only: Consegue controlar o tamaho do espaçamento do elemento de cada lado do elemento (left, right, top, bottom)
+
+4- a) Porque a altura não se adaptará ao tamanho de tela de diferentes dispositivos.
+b) Usando propriedades ou métodos que peguem o tamanho da tela e passem para o height o valor.

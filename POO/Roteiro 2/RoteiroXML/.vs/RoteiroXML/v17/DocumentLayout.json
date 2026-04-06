@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rapos\\Desktop\\Roteiros-Yassushi\\POO\\Roteiro 2\\RoteiroXML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61EC07-AD31-48BF-94FF-5D80F588876D}|RoteiroXML\\RoteiroXML.csproj|c:\\users\\rapos\\desktop\\roteiros-yassushi\\poo\\roteiro 2\\roteiroxml\\roteiroxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF61EC07-AD31-48BF-94FF-5D80F588876D}|RoteiroXML\\RoteiroXML.csproj|solutionrelative:roteiroxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61EC07-AD31-48BF-94FF-5D80F588876D}|RoteiroXML\\RoteiroXML.csproj|c:\\users\\rapos\\desktop\\roteiros-yassushi\\poo\\roteiro 2\\roteiroxml\\roteiroxml\\exercicio3\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF61EC07-AD31-48BF-94FF-5D80F588876D}|RoteiroXML\\RoteiroXML.csproj|solutionrelative:roteiroxml\\exercicio3\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61EC07-AD31-48BF-94FF-5D80F588876D}|RoteiroXML\\RoteiroXML.csproj|c:\\users\\rapos\\desktop\\roteiros-yassushi\\poo\\roteiro 2\\roteiroxml\\roteiroxml\\exercicio2\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF61EC07-AD31-48BF-94FF-5D80F588876D}|RoteiroXML\\RoteiroXML.csproj|solutionrelative:roteiroxml\\exercicio2\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61EC07-AD31-48BF-94FF-5D80F588876D}|RoteiroXML\\RoteiroXML.csproj|c:\\users\\rapos\\desktop\\roteiros-yassushi\\poo\\roteiro 2\\roteiroxml\\roteiroxml\\exercicio1\\alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF61EC07-AD31-48BF-94FF-5D80F588876D}|RoteiroXML\\RoteiroXML.csproj|solutionrelative:roteiroxml\\exercicio1\\alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estoque.cs",
+              "DocumentMoniker": "C:\\Users\\rapos\\Desktop\\Roteiros-Yassushi\\POO\\Roteiro 2\\RoteiroXML\\RoteiroXML\\Exercicio3\\Estoque.cs",
+              "RelativeDocumentMoniker": "RoteiroXML\\Exercicio3\\Estoque.cs",
+              "ToolTip": "C:\\Users\\rapos\\Desktop\\Roteiros-Yassushi\\POO\\Roteiro 2\\RoteiroXML\\RoteiroXML\\Exercicio3\\Estoque.cs",
+              "RelativeToolTip": "RoteiroXML\\Exercicio3\\Estoque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T19:12:44.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produtos.cs",
+              "DocumentMoniker": "C:\\Users\\rapos\\Desktop\\Roteiros-Yassushi\\POO\\Roteiro 2\\RoteiroXML\\RoteiroXML\\Exercicio2\\Produtos.cs",
+              "RelativeDocumentMoniker": "RoteiroXML\\Exercicio2\\Produtos.cs",
+              "ToolTip": "C:\\Users\\rapos\\Desktop\\Roteiros-Yassushi\\POO\\Roteiro 2\\RoteiroXML\\RoteiroXML\\Exercicio2\\Produtos.cs",
+              "RelativeToolTip": "RoteiroXML\\Exercicio2\\Produtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T18:48:53.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Alunos.cs",
+              "DocumentMoniker": "C:\\Users\\rapos\\Desktop\\Roteiros-Yassushi\\POO\\Roteiro 2\\RoteiroXML\\RoteiroXML\\Exercicio1\\Alunos.cs",
+              "RelativeDocumentMoniker": "RoteiroXML\\Exercicio1\\Alunos.cs",
+              "ToolTip": "C:\\Users\\rapos\\Desktop\\Roteiros-Yassushi\\POO\\Roteiro 2\\RoteiroXML\\RoteiroXML\\Exercicio1\\Alunos.cs",
+              "RelativeToolTip": "RoteiroXML\\Exercicio1\\Alunos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T18:26:52.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rapos\\Desktop\\Roteiros-Yassushi\\POO\\Roteiro 2\\RoteiroXML\\RoteiroXML\\Program.cs",
+              "RelativeDocumentMoniker": "RoteiroXML\\Program.cs",
+              "ToolTip": "C:\\Users\\rapos\\Desktop\\Roteiros-Yassushi\\POO\\Roteiro 2\\RoteiroXML\\RoteiroXML\\Program.cs",
+              "RelativeToolTip": "RoteiroXML\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwDkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T17:35:54.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

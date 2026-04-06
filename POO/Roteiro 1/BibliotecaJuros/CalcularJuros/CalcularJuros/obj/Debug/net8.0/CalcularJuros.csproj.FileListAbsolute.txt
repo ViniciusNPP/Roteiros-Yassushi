@@ -1,0 +1,11 @@
+C:\Users\rapos\Desktop\Roteiro 1\BibliotecaJuros\CalcularJuros\CalcularJuros\bin\Debug\net8.0\CalcularJuros.deps.json
+C:\Users\rapos\Desktop\Roteiro 1\BibliotecaJuros\CalcularJuros\CalcularJuros\bin\Debug\net8.0\CalcularJuros.dll
+C:\Users\rapos\Desktop\Roteiro 1\BibliotecaJuros\CalcularJuros\CalcularJuros\bin\Debug\net8.0\CalcularJuros.pdb
+C:\Users\rapos\Desktop\Roteiro 1\BibliotecaJuros\CalcularJuros\CalcularJuros\obj\Debug\net8.0\CalcularJuros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapos\Desktop\Roteiro 1\BibliotecaJuros\CalcularJuros\CalcularJuros\obj\Debug\net8.0\CalcularJuros.AssemblyInfoInputs.cache
+C:\Users\rapos\Desktop\Roteiro 1\BibliotecaJuros\CalcularJuros\CalcularJuros\obj\Debug\net8.0\CalcularJuros.AssemblyInfo.cs
+C:\Users\rapos\Desktop\Roteiro 1\BibliotecaJuros\CalcularJuros\CalcularJuros\obj\Debug\net8.0\CalcularJuros.csproj.CoreCompileInputs.cache
+C:\Users\rapos\Desktop\Roteiro 1\BibliotecaJuros\CalcularJuros\CalcularJuros\obj\Debug\net8.0\CalcularJuros.dll
+C:\Users\rapos\Desktop\Roteiro 1\BibliotecaJuros\CalcularJuros\CalcularJuros\obj\Debug\net8.0\refint\CalcularJuros.dll
+C:\Users\rapos\Desktop\Roteiro 1\BibliotecaJuros\CalcularJuros\CalcularJuros\obj\Debug\net8.0\CalcularJuros.pdb
+C:\Users\rapos\Desktop\Roteiro 1\BibliotecaJuros\CalcularJuros\CalcularJuros\obj\Debug\net8.0\ref\CalcularJuros.dll

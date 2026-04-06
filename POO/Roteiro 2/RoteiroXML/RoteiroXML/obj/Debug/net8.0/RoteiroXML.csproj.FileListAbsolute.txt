@@ -1,0 +1,15 @@
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 2\RoteiroXML\RoteiroXML\bin\Debug\net8.0\RoteiroXML.exe
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 2\RoteiroXML\RoteiroXML\bin\Debug\net8.0\RoteiroXML.deps.json
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 2\RoteiroXML\RoteiroXML\bin\Debug\net8.0\RoteiroXML.runtimeconfig.json
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 2\RoteiroXML\RoteiroXML\bin\Debug\net8.0\RoteiroXML.dll
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 2\RoteiroXML\RoteiroXML\bin\Debug\net8.0\RoteiroXML.pdb
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 2\RoteiroXML\RoteiroXML\obj\Debug\net8.0\RoteiroXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 2\RoteiroXML\RoteiroXML\obj\Debug\net8.0\RoteiroXML.AssemblyInfoInputs.cache
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 2\RoteiroXML\RoteiroXML\obj\Debug\net8.0\RoteiroXML.AssemblyInfo.cs
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 2\RoteiroXML\RoteiroXML\obj\Debug\net8.0\RoteiroXML.csproj.CoreCompileInputs.cache
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 2\RoteiroXML\RoteiroXML\obj\Debug\net8.0\RoteiroXML.sourcelink.json
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 2\RoteiroXML\RoteiroXML\obj\Debug\net8.0\RoteiroXML.dll
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 2\RoteiroXML\RoteiroXML\obj\Debug\net8.0\refint\RoteiroXML.dll
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 2\RoteiroXML\RoteiroXML\obj\Debug\net8.0\RoteiroXML.pdb
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 2\RoteiroXML\RoteiroXML\obj\Debug\net8.0\RoteiroXML.genruntimeconfig.cache
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 2\RoteiroXML\RoteiroXML\obj\Debug\net8.0\ref\RoteiroXML.dll

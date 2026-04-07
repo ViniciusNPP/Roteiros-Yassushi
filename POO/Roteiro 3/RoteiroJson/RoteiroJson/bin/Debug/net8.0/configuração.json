@@ -1,0 +1,5 @@
+{
+  "servidor": "192.168.1.100",
+  "porta": 5432,
+  "usuario": "admin_sistema"
+}

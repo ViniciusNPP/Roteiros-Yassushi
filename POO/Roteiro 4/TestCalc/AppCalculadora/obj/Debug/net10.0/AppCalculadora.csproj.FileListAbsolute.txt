@@ -1,0 +1,14 @@
+C:\Users\alunolab\Desktop\Brenno\Roteiro4\TestCalc\AppCalculadora\bin\Debug\net10.0\AppCalculadora.exe
+C:\Users\alunolab\Desktop\Brenno\Roteiro4\TestCalc\AppCalculadora\bin\Debug\net10.0\AppCalculadora.deps.json
+C:\Users\alunolab\Desktop\Brenno\Roteiro4\TestCalc\AppCalculadora\bin\Debug\net10.0\AppCalculadora.runtimeconfig.json
+C:\Users\alunolab\Desktop\Brenno\Roteiro4\TestCalc\AppCalculadora\bin\Debug\net10.0\AppCalculadora.dll
+C:\Users\alunolab\Desktop\Brenno\Roteiro4\TestCalc\AppCalculadora\bin\Debug\net10.0\AppCalculadora.pdb
+C:\Users\alunolab\Desktop\Brenno\Roteiro4\TestCalc\AppCalculadora\obj\Debug\net10.0\AppCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\Desktop\Brenno\Roteiro4\TestCalc\AppCalculadora\obj\Debug\net10.0\AppCalculadora.AssemblyInfoInputs.cache
+C:\Users\alunolab\Desktop\Brenno\Roteiro4\TestCalc\AppCalculadora\obj\Debug\net10.0\AppCalculadora.AssemblyInfo.cs
+C:\Users\alunolab\Desktop\Brenno\Roteiro4\TestCalc\AppCalculadora\obj\Debug\net10.0\AppCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\Desktop\Brenno\Roteiro4\TestCalc\AppCalculadora\obj\Debug\net10.0\AppCalculadora.dll
+C:\Users\alunolab\Desktop\Brenno\Roteiro4\TestCalc\AppCalculadora\obj\Debug\net10.0\refint\AppCalculadora.dll
+C:\Users\alunolab\Desktop\Brenno\Roteiro4\TestCalc\AppCalculadora\obj\Debug\net10.0\AppCalculadora.pdb
+C:\Users\alunolab\Desktop\Brenno\Roteiro4\TestCalc\AppCalculadora\obj\Debug\net10.0\AppCalculadora.genruntimeconfig.cache
+C:\Users\alunolab\Desktop\Brenno\Roteiro4\TestCalc\AppCalculadora\obj\Debug\net10.0\ref\AppCalculadora.dll

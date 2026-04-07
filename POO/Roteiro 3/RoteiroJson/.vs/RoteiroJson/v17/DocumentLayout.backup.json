@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{7ECFF9A7-8BBF-4701-B2D7-0DA7E060CD72}|RoteiroJson\\RoteiroJson.csproj|solutionrelative:roteirojson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7ECFF9A7-8BBF-4701-B2D7-0DA7E060CD72}|RoteiroJson\\RoteiroJson.csproj|c:\\users\\rapos\\desktop\\roteiros-yassushi\\poo\\roteiro 3\\roteirojson\\roteirojson\\ex3\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ECFF9A7-8BBF-4701-B2D7-0DA7E060CD72}|RoteiroJson\\RoteiroJson.csproj|solutionrelative:roteirojson\\ex3\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7ECFF9A7-8BBF-4701-B2D7-0DA7E060CD72}|RoteiroJson\\RoteiroJson.csproj|c:\\users\\rapos\\desktop\\roteiros-yassushi\\poo\\roteiro 3\\roteirojson\\roteirojson\\ex5\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECFF9A7-8BBF-4701-B2D7-0DA7E060CD72}|RoteiroJson\\RoteiroJson.csproj|solutionrelative:roteirojson\\ex5\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Carro.cs",
-              "DocumentMoniker": "C:\\Users\\rapos\\Desktop\\Roteiros-Yassushi\\POO\\Roteiro 3\\RoteiroJson\\RoteiroJson\\Ex3\\Carro.cs",
-              "RelativeDocumentMoniker": "RoteiroJson\\Ex3\\Carro.cs",
-              "ToolTip": "C:\\Users\\rapos\\Desktop\\Roteiros-Yassushi\\POO\\Roteiro 3\\RoteiroJson\\RoteiroJson\\Ex3\\Carro.cs",
-              "RelativeToolTip": "RoteiroJson\\Ex3\\Carro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\rapos\\Desktop\\Roteiros-Yassushi\\POO\\Roteiro 3\\RoteiroJson\\RoteiroJson\\Ex5\\Produto.cs",
+              "RelativeDocumentMoniker": "RoteiroJson\\Ex5\\Produto.cs",
+              "ToolTip": "C:\\Users\\rapos\\Desktop\\Roteiros-Yassushi\\POO\\Roteiro 3\\RoteiroJson\\RoteiroJson\\Ex5\\Produto.cs",
+              "RelativeToolTip": "RoteiroJson\\Ex5\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T20:32:50.978Z",
+              "WhenOpened": "2026-04-06T23:49:26.956Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "RoteiroJson\\Program.cs",
               "ToolTip": "C:\\Users\\rapos\\Desktop\\Roteiros-Yassushi\\POO\\Roteiro 3\\RoteiroJson\\RoteiroJson\\Program.cs*",
               "RelativeToolTip": "RoteiroJson\\Program.cs*",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAcwDAAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAcwFcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-06T20:13:24.194Z",
               "EditorCaption": ""

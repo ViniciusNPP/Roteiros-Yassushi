@@ -1,0 +1,15 @@
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 4\TestCalc\AppCalculadora\bin\Debug\net8.0\AppCalculadora.exe
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 4\TestCalc\AppCalculadora\bin\Debug\net8.0\AppCalculadora.deps.json
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 4\TestCalc\AppCalculadora\bin\Debug\net8.0\AppCalculadora.runtimeconfig.json
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 4\TestCalc\AppCalculadora\bin\Debug\net8.0\AppCalculadora.dll
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 4\TestCalc\AppCalculadora\bin\Debug\net8.0\AppCalculadora.pdb
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 4\TestCalc\AppCalculadora\obj\Debug\net8.0\AppCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 4\TestCalc\AppCalculadora\obj\Debug\net8.0\AppCalculadora.AssemblyInfoInputs.cache
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 4\TestCalc\AppCalculadora\obj\Debug\net8.0\AppCalculadora.AssemblyInfo.cs
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 4\TestCalc\AppCalculadora\obj\Debug\net8.0\AppCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 4\TestCalc\AppCalculadora\obj\Debug\net8.0\AppCalculadora.sourcelink.json
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 4\TestCalc\AppCalculadora\obj\Debug\net8.0\AppCalculadora.dll
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 4\TestCalc\AppCalculadora\obj\Debug\net8.0\refint\AppCalculadora.dll
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 4\TestCalc\AppCalculadora\obj\Debug\net8.0\AppCalculadora.pdb
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 4\TestCalc\AppCalculadora\obj\Debug\net8.0\AppCalculadora.genruntimeconfig.cache
+C:\Users\rapos\Desktop\Roteiros-Yassushi\POO\Roteiro 4\TestCalc\AppCalculadora\obj\Debug\net8.0\ref\AppCalculadora.dll

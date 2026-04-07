@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 1,
+    "product_name": "Notebook",
+    "product_price": 3500.0,
+    "Estoque": 10,
+    "Fornecedor": "Tech Master"
+  },
+  {
+    "Id": 2,
+    "product_name": "Mouse",
+    "product_price": 150.0,
+    "Estoque": 50,
+    "Fornecedor": "Logi Logistics"
+  },
+  {
+    "Id": 3,
+    "product_name": "Teclado",
+    "product_price": 280.0,
+    "Estoque": 30,
+    "Fornecedor": "Key Components"
+  },
+  {
+    "Id": 4,
+    "product_name": "Monitor",
+    "product_price": 1200.0,
+    "Estoque": 15
+  }
+]

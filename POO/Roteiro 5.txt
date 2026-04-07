@@ -1,0 +1,64 @@
+1- Testes de integração são testes realizados para partes diferentes do código em conjunto para validar se o programa será 
+rodado corretamente e se todas as funções estarão fazendo seu papel.
+
+2- teste unitário: Testa uma função isolada.
+teste de integração: Testa várias funções ao mesmo tempo para ver se funcionam em conjunto.
+
+3- Não, elas podem ser realizadas manualmente escrevendo o código e dizendo o que deve ser retornado.
+
+4- Para que nenhuma falha em alguma função passe despercibida quando todo o programa rodar.
+
+5- Corrupção de dados: Pode ocorrer na comunicação entre módulos por diversos movitos, como erros de programação ou
+problemas de hardware.
+
+6- Primeiro identifica os módulos para definir os cenários de testes para determinar as funcionalidades que serão avaliadas,
+depois cria os casos de teste e estabelece os dados que irão entrar e o resultado esperado. Logo após o estabelecimento dos
+dados há a executação dos  testes e a validação dos resultados para comparar os resultados com os esperados. E por fim a 
+documentação dos testes realizados, mostrando os resultados obtidos e os problemas encontrados.
+
+7- Integração horizontal: Faz os testes com os módulos do mesmo nível/ mesma camada;
+Integração vertical: Faz os testes com os módulos de diferentes camandas/níveis.
+
+8- Integração de serviço.
+
+9-  valida a comunicação entre interfaces do software.
+
+10- Por que teste de integração executam vários testes de vários módulos ao mesmo tempo, e o teste unitário executa somente
+um módulo por vez.
+
+11- a) Integração horizontal.
+b) Se precisasse passar por uma API externa para fazer alguma ação.
+
+12- Integração de sistemas, pois há comunicação com um sistema externo.
+
+13- A integração de regressão é a realização de teste de integração após alguma mudança em alguma alteração no programa 
+para não comprometer nas funcionalidades existentes.
+
+14- Integração de Interfaces, pois está tendo uma comunição entre software e interface.
+
+15- Porque são mais complexos de serem feitos e lentos, por isso alguns testes são preferencialmente feitos em testes unitários.
+
+16- Pode ocorrer comprometimento de outras funcionalidades no sistema.
+
+17- A integração de serviços semrpe usa algum programa externo ou um subsistema que comunica com a interface, mas a
+integração de sistemas é mais geral, apenas analisa a comunicação entre o sistema e um sistema externo.
+
+18- Integração de Sistemas e Interface. Porque tem comunicação com sistemas externos e valida o contrato entre a API e o
+banco.
+
+19- Dependências mockadas: Imitam o comportamento da dependência.
+Dependências reais: Testes realizados da maneira que o código deveria funcionar.
+As dependências mockadas podem tornar a execução mais rápida por não depender de fatores externos, mas pode não refletir 
+corretamente o comportamento da dependência. As reais são mais lentas, mas refletem totalmente o comportamento da dependência.
+
+20- Execução mais rápida, melhor escalabilidade e maior precisão.
+
+21- Não, pois é preciso ter o teste unitário para testar possíveis problemas mais específicos.
+
+22- Sim, porque a API pode não passar o que era esperado devido algum erro no envio dos dados.
+
+23- Uma arquitetura bem definida torna os testes mais rápidos e fáceis de entender.
+
+24- Não, pois testse unitários podem fazer testes mais específicos.
+
+25- Criar os testes de integração.

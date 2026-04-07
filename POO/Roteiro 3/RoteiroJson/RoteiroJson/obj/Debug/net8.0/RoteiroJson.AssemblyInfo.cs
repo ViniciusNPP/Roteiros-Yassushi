@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoteiroJson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20de61dcbabfcb272f90df788969a30de30ec8f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91b7593d114b80d11677b13920cb30960ff03ed1")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoteiroJson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoteiroJson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

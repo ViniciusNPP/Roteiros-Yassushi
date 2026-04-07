@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\RoteiroJson",
+    "\\RoteiroJson\\RoteiroJson"
   ],
+  "SelectedNode": "\\RoteiroJson\\RoteiroJson\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -11,3 +11,6 @@ Only: Consegue controlar o tamaho do espaçamento do elemento de cada lado do el
 
 4- a) Porque a altura não se adaptará ao tamanho de tela de diferentes dispositivos.
 b) Usando propriedades ou métodos que peguem o tamanho da tela e passem para o height o valor.
+
+Eu realmente não sei a qual roteiro isso pertence, ou se isso foi de algum tbl, mas está ai caso sinta
+que está faltando algo.

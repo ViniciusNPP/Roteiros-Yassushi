@@ -1,0 +1,20 @@
+1- Por que usamos construtor?
+    Porque é a maneira da outra tela receber o dado enviado pela primeira tela
+
+2- Por que Tela2 pode ser Stateless?
+    Porque a Tela2 não precisa fazer nenhum tipo de alteração no momento em que o usuário estiver nela, apenas mostrar as informações previamente passadas no momento de seu carregamento.
+
+3- O dado pode mudar depois que a tela é criada?
+    Pela Tela2 ser Stateless a informação não pode ser mudada.
+
+4- O que acontece se remover o await?
+    O código continuára e não esperará a ação terminar, resultando, possivelmente, em um erro.
+
+5- O que acontece se remover async?
+    O código tentará rodar normalmente e retornará uma promessa/future vazio, pois não vai esperar rodar a tela2 para pegar o resultado.
+
+6- O que é Future?
+    Future representa um valor ou erro que ainda não está disponível, mas que será resolvido em algum momento no futuro
+
+7- Quando o valor realmente é recebido?
+    O valor e recebido no momento que a tela2 é fechada.
